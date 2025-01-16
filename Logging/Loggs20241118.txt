@@ -1,0 +1,95 @@
+2024-11-18 05:22:34.037 +00:00 [INF] Starting up the application...
+2024-11-18 05:22:50.472 +00:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\HP PC\Documents\coding\React Job\MercylandFolder\MercylandAdmin\MercylandAdmin\Program.cs:line 77
+2024-11-18 05:25:01.325 +00:00 [INF] Starting up the application...
+2024-11-18 05:25:04.710 +00:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\HP PC\Documents\coding\React Job\MercylandFolder\MercylandAdmin\MercylandAdmin\Program.cs:line 77
+2024-11-18 05:25:39.791 +00:00 [INF] Starting up the application...
+2024-11-18 05:25:40.640 +00:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\HP PC\Documents\coding\React Job\MercylandFolder\MercylandAdmin\MercylandAdmin\Program.cs:line 77
+2024-11-18 05:25:51.157 +00:00 [INF] Starting up the application...
+2024-11-18 05:25:51.937 +00:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\HP PC\Documents\coding\React Job\MercylandFolder\MercylandAdmin\MercylandAdmin\Program.cs:line 77
+2024-11-18 05:28:03.678 +00:00 [INF] Starting up the application...
+2024-11-18 05:28:07.676 +00:00 [FTL] Application terminated unexpectedly
+System.AggregateException: Some services are not able to be constructed (Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.)
+ ---> System.InvalidOperationException: Error while validating the service descriptor 'ServiceType: MercylandAdmin.Interface.IAuthenticationService Lifetime: Scoped ImplementationType: MercylandAdmin.Inplimentation.AuthenticationService': Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+ ---> System.InvalidOperationException: Unable to resolve service for type 'Microsoft.AspNetCore.Identity.UserManager`1[MercylandAdmin.Models.User]' while attempting to activate 'MercylandAdmin.Inplimentation.AuthenticationService'.
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateArgumentCallSites(ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain, ParameterInfo[] parameters, Boolean throwIfCallSiteNotFound)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.CreateConstructorCallSite(ResultCache lifetime, ServiceIdentifier serviceIdentifier, Type implementationType, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.TryCreateExact(ServiceDescriptor descriptor, ServiceIdentifier serviceIdentifier, CallSiteChain callSiteChain, Int32 slot)
+   at Microsoft.Extensions.DependencyInjection.ServiceLookup.CallSiteFactory.GetCallSite(ServiceDescriptor serviceDescriptor, CallSiteChain callSiteChain)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider.ValidateService(ServiceDescriptor descriptor)
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   --- End of inner exception stack trace ---
+   at Microsoft.Extensions.DependencyInjection.ServiceProvider..ctor(ICollection`1 serviceDescriptors, ServiceProviderOptions options)
+   at Microsoft.Extensions.DependencyInjection.ServiceCollectionContainerBuilderExtensions.BuildServiceProvider(IServiceCollection services, ServiceProviderOptions options)
+   at Microsoft.Extensions.Hosting.HostApplicationBuilder.Build()
+   at Microsoft.AspNetCore.Builder.WebApplicationBuilder.Build()
+   at Program.<Main>$(String[] args) in C:\Users\HP PC\Documents\coding\React Job\MercylandFolder\MercylandAdmin\MercylandAdmin\Program.cs:line 77

@@ -1,0 +1,402 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\controllers\\homeslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\controllers\\homeslidercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\interface\\iauthenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\inplementation\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\inplementation\\authenticationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\controllers\\propertycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\inplementation\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\inplementation\\propertyservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\apiresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\inplementation\\homesliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\inplementation\\homesliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\mercylandadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\mercylandadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\controllers\\datacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\interface\\ihomesliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\interface\\ihomesliderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\utilities\\documentupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\utilities\\documentupload.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\models\\appsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\interface\\idocumentuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\interface\\idocumentuploadservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|c:\\users\\hp pc\\documents\\coding\\react job\\mercylandfolder\\mercylandadmin\\mercylandadmin\\migrations\\20241126162243_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89E548A6-AD2E-4D74-BF8E-A917C7085F72}|MercylandAdmin\\MercylandAdmin.csproj|solutionrelative:mercylandadmin\\migrations\\20241126162243_initialmigration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 25,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApiResponse.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\ApiResponse.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\ApiResponse.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\ApiResponse.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\ApiResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-22T07:28:37.052Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20241126162243_InitialMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Migrations\\20241126162243_InitialMigration.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Migrations\\20241126162243_InitialMigration.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Migrations\\20241126162243_InitialMigration.cs",
+              "RelativeToolTip": "MercylandAdmin\\Migrations\\20241126162243_InitialMigration.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T16:22:46.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20241126154338_UserMigration.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs",
+              "RelativeToolTip": "MercylandAdmin\\Migrations\\20241126154338_UserMigration.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-26T15:43:48.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\AuthenticationService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Inplementation\\AuthenticationService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\AuthenticationService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Inplementation\\AuthenticationService.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAgwF4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:57:07.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "MercylandAdmin\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAowB4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T10:06:37.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "LoginDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\LoginDTO.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\LoginDTO.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\LoginDTO.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\LoginDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:45:49.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Program.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Program.cs",
+              "RelativeToolTip": "MercylandAdmin\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABIAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:32:57.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IAuthenticationService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IAuthenticationService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Interface\\IAuthenticationService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IAuthenticationService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Interface\\IAuthenticationService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:56:59.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MercylandAdmin\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-11-15T19:55:24.194Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserDTO.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\UserDTO.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\UserDTO.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\UserDTO.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\UserDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:45:32.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\UserModel.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:52:06.876Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\AppDbContext.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:43:32.542Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "MercylandAdmin\\appsettings.json",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\appsettings.json",
+              "RelativeToolTip": "MercylandAdmin\\appsettings.json",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAkAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T12:33:57.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MercylandAdmin.csproj",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\MercylandAdmin.csproj",
+              "RelativeDocumentMoniker": "MercylandAdmin\\MercylandAdmin.csproj",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\MercylandAdmin.csproj",
+              "RelativeToolTip": "MercylandAdmin\\MercylandAdmin.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAABkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-11-12T06:28:22.006Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "DataController.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\DataController.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Controllers\\DataController.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\DataController.cs",
+              "RelativeToolTip": "MercylandAdmin\\Controllers\\DataController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T09:51:03.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AppSettings.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\AppSettings.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Models\\AppSettings.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Models\\AppSettings.cs",
+              "RelativeToolTip": "MercylandAdmin\\Models\\AppSettings.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:47:30.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PropertyService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\PropertyService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Inplementation\\PropertyService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\PropertyService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Inplementation\\PropertyService.cs",
+              "ViewState": "AQIAAD4BAAAAAAAAAAAAAFcBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T12:22:12.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "DocumentUpload.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Utilities\\DocumentUpload.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Utilities\\DocumentUpload.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Utilities\\DocumentUpload.cs",
+              "RelativeToolTip": "MercylandAdmin\\Utilities\\DocumentUpload.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:45:03.362Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PropertyController.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\PropertyController.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Controllers\\PropertyController.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\PropertyController.cs",
+              "RelativeToolTip": "MercylandAdmin\\Controllers\\PropertyController.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAAcwEMAAABMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:46:51.566Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IHomeSliderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IHomeSliderService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Interface\\IHomeSliderService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IHomeSliderService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Interface\\IHomeSliderService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:57:57.341Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "HomeSliderService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\HomeSliderService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Inplementation\\HomeSliderService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Inplementation\\HomeSliderService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Inplementation\\HomeSliderService.cs",
+              "ViewState": "AQIAAHIAAAAAAAAAAAAowIYAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:41:49.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "IDocumentUploadService.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IDocumentUploadService.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Interface\\IDocumentUploadService.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Interface\\IDocumentUploadService.cs",
+              "RelativeToolTip": "MercylandAdmin\\Interface\\IDocumentUploadService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T10:44:51.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeSliderController.cs",
+              "DocumentMoniker": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\HomeSliderController.cs",
+              "RelativeDocumentMoniker": "MercylandAdmin\\Controllers\\HomeSliderController.cs",
+              "ToolTip": "C:\\Users\\HP PC\\Documents\\coding\\React Job\\MercylandFolder\\MercylandAdmin\\MercylandAdmin\\Controllers\\HomeSliderController.cs",
+              "RelativeToolTip": "MercylandAdmin\\Controllers\\HomeSliderController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T13:45:43.468Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

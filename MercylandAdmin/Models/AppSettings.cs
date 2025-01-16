@@ -1,0 +1,14 @@
+﻿
+namespace MercylandAdmin.Models
+{
+    public class AppSettings
+    {
+        public CloudinaryConfig CloudinaryConfig { get; set; }
+    }
+    public class CloudinaryConfig
+    {
+        public string CloudName { get; set; }
+        public string ApiKey { get; set; }
+        public string ApiSecret { get; set; }
+    }
+}
